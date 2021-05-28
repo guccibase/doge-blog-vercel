@@ -1,0 +1,8 @@
+.app-title {
+	color: var(--dogeblog-color);
+	font-size: 4rem !important;
+}
+
+.rounded-circle {
+	height: 4rem !important;
+}
